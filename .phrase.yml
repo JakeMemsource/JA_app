@@ -1,0 +1,18 @@
+phrase:
+  access_token: "b7fc60cd08e349735c546d147186900a91ec509bf763e515ea531affb3cd4c29"
+  
+  project_id: "6e9d5ae5d3745f037c0f299f48547031"
+
+  file_format: "xml"
+
+  push:
+
+    sources:
+
+    - file: "./Sample_<locale_code>.xml"
+
+  pull:
+
+    targets:
+
+    - file: "./Sample_<locale_code>.xml"
